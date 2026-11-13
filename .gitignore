@@ -1,0 +1,27 @@
+# Секреты и локальная конфигурация
+.env
+
+# Базы данных создаются автоматически при первом запуске
+*.db
+*.db-journal
+*.sqlite3
+
+# Логи
+*.log
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
