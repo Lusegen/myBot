@@ -22,6 +22,15 @@ Telegram. Расписанием, услугами и текстами сооб�
 - Переписка с пациентами: активные чаты, история, режим непрерывного чата с авто-выходом через 20 минут
 - Пользовательская панель — посмотреть бота глазами пациента
 
+## Скриншоты
+
+<p align="center">
+  <img src="screenshots/01-admin-menu.png" width="250" alt="Админ-панель">
+  <img src="screenshots/02-user-panel.png" width="250" alt="Пользовательская панель">
+  <img src="screenshots/03-bot-settings.png" width="250" alt="Настройки бота">
+  <img src="screenshots/04-func-settings.png" width="250" alt="Управление функциями">
+</p>
+
 ## Стек
 
 - Python 3.13, asyncio
